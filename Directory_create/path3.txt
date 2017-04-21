@@ -1,0 +1,1 @@
+Directory/Direcory1/Directory2/file.txt
